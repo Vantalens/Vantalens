@@ -88,9 +88,21 @@ Trans2Former 是我近期主要构建的项目，目标是实现一个浏览器�
 
 ## GitHub 统计
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Vantalens&show_icons=true&theme=tokyonight)
+<p>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Vantalens&show_icons=true&theme=tokyonight&hide_border=true" 
+    alt="GitHub Stats" 
+    height="160"
+  />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vantalens&layout=compact&theme=tokyonight)
+<p>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vantalens&layout=compact&theme=tokyonight&hide_border=true" 
+    alt="Top Languages" 
+    height="160"
+  />
+</p>
 
 ---
 
