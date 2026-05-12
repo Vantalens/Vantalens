@@ -29,7 +29,7 @@
 |---|---|
 | 主要语言 | C / Golang |
 | 学习中 | Python / C++ |
-| 开发环境 | Linux / Git |
+| 开发环境 | Windows / Git |
 | 关注领域 | 后端 / 系统 / 架构 / AI / 安全 |
 | 正在学习 | 操作系统 / 计算机网络 / 数据库 / 分布式系统 / 机器学习基础 |
 
@@ -92,6 +92,7 @@ Trans2Former 是我近期主要构建的项目，目标是实现一个浏览器�
 
 - GitHub: https://github.com/Vantalens
 - Website: https://vantalens.com
+- Mail：w2343419@gmail.com
 
 ---
 
