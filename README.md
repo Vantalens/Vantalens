@@ -119,8 +119,6 @@ PortManager 是一个用于查看监听端口、识别占用进程并进行安�
 
 [![GitHub Roast](https://githubroast.dev/api/card/Vantalens)](https://githubroast.dev/u/Vantalens)
 
-[![GitHub Roast 评分徽章](https://githubroast.dev/api/badge/Vantalens)](https://githubroast.dev/u/Vantalens)
-
 ---
 
 ## 联系方式
