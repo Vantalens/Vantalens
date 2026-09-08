@@ -87,8 +87,8 @@ PortManager 是一个用于查看监听端口、识别占用进程并进行安�
 
 ---
 
-![Vantalens's GitHub stats](https://github-readme-stats-indol-gamma-50.vercel.app/api?username=Vantalens&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats-indol-gamma-50.vercel.app/api/top-langs/?username=Vantalens&layout=compact&theme=transparent)
+![Vantalens's GitHub stats](profile-summary-card-output/transparent/3-stats.svg)
+![Top languages](profile-summary-card-output/transparent/1-repos-per-language.svg)
 
 ---
 
