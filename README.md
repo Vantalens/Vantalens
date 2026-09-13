@@ -16,7 +16,7 @@ Building local-first software, developer tools, and personal publishing systems.
 
 ## 关于我
 
-我在成都学习软件工程，也以独立开发者的方式持续完成从产品构思、系统设计到开发交付的完整项目。
+我在学习软件工程，也以独立开发者的方式持续完成从产品构思、系统设计到开发交付的完整项目。
 
 目前的工作主要围绕三个方向展开：
 
