@@ -58,13 +58,6 @@ Building local-first software, developer tools, and personal publishing systems.
 - 维护 **VantalensWeb / TalentWriter**，把个人写作与发布流程做成长期系统；
 - 学习算法与计算机基础，并将阶段性总结写进博客。
 
-## GitHub 概览
-
-<div align="center">
-
-![Vantalens's GitHub profile details](https://raw.githubusercontent.com/Vantalens/Vantalens/main/profile-summary-card-output/transparent/0-profile-details.svg)
-
-</div>
 
 ---
 
