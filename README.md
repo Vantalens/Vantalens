@@ -40,8 +40,6 @@ Building local-first software, developer tools, and personal publishing systems.
 - **[DevDocsKit](https://github.com/Vantalens/DevDocsKit)** — 为个人与小团队整理的 AI 辅助开发文档体系，覆盖需求、架构、评审、测试门禁与发布纪律。
 - **[CodePanion](https://github.com/Vantalens/CodePanion)** — 本地优先的 AI 开发工作台与多 Agent 工作流实验，包含 Rust daemon、Tauri 桌面端、人工确认门与多模型接入；现已归档，作为阶段性工程探索保留。
 
-> Fork 仓库、课程练习和已归档实验不作为当前主要项目展示；完整记录可在 [Repositories](https://github.com/Vantalens?tab=repositories) 中查看。
-
 ## 技术侧写
 
 ```text
@@ -57,7 +55,6 @@ Building local-first software, developer tools, and personal publishing systems.
 - 持续推进 **Trans2Former** 的文档模型、转换质量与本地 OCR 能力；
 - 维护 **VantalensWeb / TalentWriter**，把个人写作与发布流程做成长期系统；
 - 学习算法与计算机基础，并将阶段性总结写进博客。
-
 
 ---
 
